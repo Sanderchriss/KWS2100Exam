@@ -1,0 +1,593 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Akershus universitetssykehus",
+        "pasientgrunnlag": 600000,
+        "grunnlagt": 1961,
+        "region": "Sør-øst"
+      },
+      "geometry": {
+        "coordinates": [10.994468134813673, 59.93274902464134],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Ullevål sykehus",
+        "pasientgrunnlag": 190000,
+        "grunnlagt": 2009,
+        "region": "Sør-øst"
+      },
+      "geometry": {
+        "coordinates": [10.737328425328343, 59.9369674533375],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Aker sykehus",
+        "pasientgrunnlag": 150000,
+        "grunnlagt": 1895,
+        "region": "Sør-øst"
+      },
+      "geometry": {
+        "coordinates": [10.795358812117541, 59.93949860330585],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Rikshospitalet",
+        "pasientgrunnlag": 160000,
+        "grunnlagt": 1826,
+        "region": "Sør-øst"
+      },
+      "geometry": {
+        "coordinates": [10.715761600904642, 59.948124761094675],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Haukeland universitetssykehus",
+        "pasientgrunnlag": 380000,
+        "grunnlagt": 1912,
+        "region": "Vest"
+      },
+      "geometry": {
+        "coordinates": [5.359423694204764, 60.37323295339334],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Stavanger universitetssykehus",
+        "pasientgrunnlag": 369000,
+        "grunnlagt": 1927,
+        "region": "Vest"
+      },
+      "geometry": {
+        "coordinates": [5.7300809684256535, 58.953496900063925],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "St. Olavs Hospital",
+        "pasientgrunnlag": 310000,
+        "grunnlagt": 1902,
+        "region": "Midt-Norge"
+      },
+      "geometry": {
+        "coordinates": [10.388121194663256, 63.42079638284076],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Sykehuset Østfold",
+        "pasientgrunnlag": 298000,
+        "grunnlagt": 2001,
+        "region": "Sør-øst"
+      },
+      "geometry": {
+        "coordinates": [11.024545865285376, 59.31814806783524],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Sykehuset i Vestfold",
+        "pasientgrunnlag": 240000,
+        "grunnlagt": 2001,
+        "region": "Sør-vest"
+      },
+      "geometry": {
+        "coordinates": [10.417800214855362, 59.27202748804169],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Sykehuset Telemark",
+        "pasientgrunnlag": 170000,
+        "grunnlagt": 2001,
+        "region": "Sør-øst"
+      },
+      "geometry": {
+        "coordinates": [9.59319178364342, 59.19216942181012],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Bærum sykehus",
+        "pasientgrunnlag": 160000,
+        "grunnlagt": 1924,
+        "region": "Sør-øst"
+      },
+      "geometry": {
+        "coordinates": [10.51092335738582, 59.89864248242762],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Drammen sykehus",
+        "pasientgrunnlag": 168000,
+        "grunnlagt": 1884,
+        "region": "Sør-øst"
+      },
+      "geometry": {
+        "coordinates": [10.198082016479162, 59.748306897329655],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Sørlandet sykehus Kristiansand",
+        "pasientgrunnlag": 155000,
+        "grunnlagt": 1983,
+        "region": "Sør-øst"
+      },
+      "geometry": {
+        "coordinates": [7.9811031703611945, 58.1640018304694],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Universitetssykehuset Nord-Norge",
+        "pasientgrunnlag": 130000,
+        "grunnlagt": 2001,
+        "region": "Nord"
+      },
+      "geometry": {
+        "coordinates": [18.98456474443975, 69.68375665942281],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Haugesund sjukehus",
+        "pasientgrunnlag": 180000,
+        "grunnlagt": 1889,
+        "region": "Vest"
+      },
+      "geometry": {
+        "coordinates": [5.278366327162132, 59.40895674866263],
+        "type": "Point"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Førde sentralsjukehus",
+        "pasientgrunnlag": 110000,
+        "grunnlagt": 1979,
+        "region": "Vest"
+      },
+      "geometry": {
+        "coordinates": [5.8876392887152065, 61.45729229997062],
+        "type": "Point"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Sykehuset Innlandet Gjøvik",
+        "pasientgrunnlag": 100000,
+        "grunnlagt": 2001,
+        "region": "Sør-øst"
+      },
+      "geometry": {
+        "coordinates": [10.679680208649756, 60.803267961281676],
+        "type": "Point"
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Ålesund sjukehus",
+        "pasientgrunnlag": 100000,
+        "grunnlagt": 1971,
+        "region": "Midt-Norge"
+      },
+      "geometry": {
+        "coordinates": [6.313319182605369, 62.46421741073456],
+        "type": "Point"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Sørlandet sykehus Arendal",
+        "pasientgrunnlag": 100000,
+        "grunnlagt": 1920,
+        "region": "Sør-øst"
+      },
+      "geometry": {
+        "coordinates": [8.754089089962207, 58.46659389223379],
+        "type": "Point"
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Sykehuset Levanger",
+        "pasientgrunnlag": 95000,
+        "grunnlagt": 1843,
+        "region": "Midt-Norge"
+      },
+      "geometry": {
+        "coordinates": [11.28944396940409, 63.74186137162948],
+        "type": "Point"
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Sykehuset Innlandet Hamar",
+        "pasientgrunnlag": 85000,
+        "grunnlagt": "Uvisst",
+        "region": "Sør-øst"
+      },
+      "geometry": {
+        "coordinates": [11.071349051707216, 60.798596052547055],
+        "type": "Point"
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Ringerike sykehus",
+        "pasientgrunnlag": 80000,
+        "grunnlagt": 1965,
+        "region": "Sør-øst"
+      },
+      "geometry": {
+        "coordinates": [10.255274084344649, 60.14790631066185],
+        "type": "Point"
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Nordlandssykehuset",
+        "pasientgrunnlag": 78000,
+        "grunnlagt": 2002,
+        "region": "Nord"
+      },
+      "geometry": {
+        "coordinates": [14.397049090863277, 67.28334552504296],
+        "type": "Point"
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Sykehuset Innlandet Kongsvinger",
+        "pasientgrunnlag": 75000,
+        "grunnlagt": 2001,
+        "region": "Sør-øst"
+      },
+      "geometry": {
+        "coordinates": [11.994448346117792, 60.19477211477033],
+        "type": "Point"
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Sykehuset Innlandet Lillehammer",
+        "pasientgrunnlag": 70000,
+        "grunnlagt": 2001,
+        "region": "Sør-øst"
+      },
+      "geometry": {
+        "coordinates": [10.47462987523204, 61.11259995167879],
+        "type": "Point"
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Kristiansund sykehus",
+        "pasientgrunnlag": 50000,
+        "grunnlagt": 1985,
+        "region": "Midt-Norge"
+      },
+      "geometry": {
+        "coordinates": [7.724090555301132, 63.10833899719296],
+        "type": "Point"
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Molde sykehus",
+        "pasientgrunnlag": 60000,
+        "grunnlagt": 1984,
+        "region": "Midt-Norge"
+      },
+      "geometry": {
+        "coordinates": [7.138723510283171, 62.736958284533756],
+        "type": "Point"
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Nordlandssykehuset Vesterålen",
+        "pasientgrunnlag": 52000,
+        "grunnlagt": 1892,
+        "region": "Nord"
+      },
+      "geometry": {
+        "coordinates": [14.910562242250819, 68.55996463048325],
+        "type": "Point"
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Sykehuset Innlandet Elverum",
+        "pasientgrunnlag": 50000,
+        "grunnlagt": 2001,
+        "region": "Sør-øst"
+      },
+      "geometry": {
+        "coordinates": [11.570982909253473, 60.877073061062646],
+        "type": "Point"
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Stord sjukehus",
+        "pasientgrunnlag": 50000,
+        "grunnlagt": 2001,
+        "region": "Vest"
+      },
+      "geometry": {
+        "coordinates": [5.512215418056456, 59.792827189367785],
+        "type": "Point"
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Volda sjukehus",
+        "pasientgrunnlag": 50000,
+        "grunnlagt": 1986,
+        "region": "Vest"
+      },
+      "geometry": {
+        "coordinates": [6.091309376290127, 62.14985551561119],
+        "type": "Point"
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Sykehuset Namsos",
+        "pasientgrunnlag": 45000,
+        "grunnlagt": 1848,
+        "region": "Midt-Norge"
+      },
+      "geometry": {
+        "coordinates": [11.505274207115889, 64.47026430862479],
+        "type": "Point"
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Finnmarkssykehuset Hammerfest",
+        "pasientgrunnlag": 45000,
+        "grunnlagt": 2001,
+        "region": "Nord"
+      },
+      "geometry": {
+        "coordinates": [23.67173391253587, 70.67287748069032],
+        "type": "Point"
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Helgelandssykehuset Alstahaugen",
+        "pasientgrunnlag": 43000,
+        "grunnlagt": 2001,
+        "region": "Nord"
+      },
+      "geometry": {
+        "coordinates": [12.618924561918874, 66.0185698194912],
+        "type": "Point"
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Kongsberg sykehus",
+        "pasientgrunnlag": 40000,
+        "grunnlagt": 2009,
+        "region": "Sør-øst"
+      },
+      "geometry": {
+        "coordinates": [9.65630186819294, 59.67055661345117],
+        "type": "Point"
+      },
+      "id": 34
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Sørlandet sykehus Flekkefjord",
+        "pasientgrunnlag": 40000,
+        "grunnlagt": 1953,
+        "region": "Sør-øst"
+      },
+      "geometry": {
+        "coordinates": [6.665902359974751, 58.29849541467169],
+        "type": "Point"
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Universitetssykehuset Nord-Norge Harstad",
+        "pasientgrunnlag": 35000,
+        "grunnlagt": 1964,
+        "region": "Nord"
+      },
+      "geometry": {
+        "coordinates": [16.525350691544105, 68.79626988940234],
+        "type": "Point"
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Helgelandssykehuset Mo i Rana",
+        "pasientgrunnlag": 33000,
+        "grunnlagt": 2002,
+        "region": "Nord"
+      },
+      "geometry": {
+        "coordinates": [14.18592153913616, 66.32598692061981],
+        "type": "Point"
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Universitetssykehuset Nord-Norge Narvik ",
+        "pasientgrunnlag": 30000,
+        "grunnlagt": 2001,
+        "region": "Nord"
+      },
+      "geometry": {
+        "coordinates": [17.41350853915779, 68.44216350551005],
+        "type": "Point"
+      },
+      "id": 38
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Finnmarkssykehuset Sør-Varanger",
+        "pasientgrunnlag": 30000,
+        "grunnlagt": 2001,
+        "region": "Nord"
+      },
+      "geometry": {
+        "coordinates": [30.0339493862881, 69.70728227066573],
+        "type": "Point"
+      },
+      "id": 39
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Haukeland universitetssykehus Voss",
+        "pasientgrunnlag": 30000,
+        "grunnlagt": 1912,
+        "region": "Vest"
+      },
+      "geometry": {
+        "coordinates": [6.420291158620586, 60.6336525835265],
+        "type": "Point"
+      },
+      "id": 40
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Nordlandssykehuset Lofoten",
+        "pasientgrunnlag": 24000,
+        "grunnlagt": 2001,
+        "region": "Nord"
+      },
+      "geometry": {
+        "coordinates": [13.537121719861176, 68.11973259622647],
+        "type": "Point"
+      },
+      "id": 41
+    }
+  ]
+}

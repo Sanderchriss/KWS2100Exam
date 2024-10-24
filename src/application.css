@@ -1,0 +1,160 @@
+* {
+  margin: unset;
+  font-family: Georgia;
+  font-size: small;
+}
+
+html {
+  background-color: black;
+  overflow: hidden;
+}
+
+#root {
+  display: grid;
+  grid-template-rows: auto auto 1fr;
+}
+
+/*Map tilelayers*/
+main {
+  display: grid;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  border-radius: 2%;
+  z-index: -1;
+}
+/*Nav style*/
+.containerMain {
+  display: grid;
+  grid-template-columns: auto;
+  justify-content: space-between;
+  width: 9%;
+  height: 80%;
+  top: 5%;
+  right: 0;
+  position: fixed;
+}
+select,
+button,
+.form-control {
+  border-style: solid;
+  border-color: #df19fb;
+}
+select,
+nav,
+button,
+.form-control {
+  background-color: rgba(0, 0, 0, 0.37);
+  color: #df19fb;
+  border-radius: 5px;
+}
+input[type="checkbox"] {
+  visibility: hidden;
+  width: 1px;
+  height: 1px;
+}
+input[type="button"]:hover {
+  cursor: pointer;
+  background-image: linear-gradient(rgb(128, 128, 128), rgba(0, 0, 0, 0.74));
+}
+
+label:hover {
+  cursor: pointer;
+  font-size: medium;
+  background-image: linear-gradient(rgb(128, 128, 128), rgba(0, 0, 0, 0.74));
+  border-radius: 10%;
+}
+button:hover {
+  cursor: pointer;
+  font-size: medium;
+  background-image: linear-gradient(rgb(128, 128, 128), rgba(0, 0, 0, 0.74));
+  border-radius: 10%;
+}
+/*Nav-Checked*/
+
+.stationSearchInput {
+  background-color: black;
+  color: #df19fb;
+}
+
+.stationdropdown {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  border: 1px solid rgb(128, 128, 128);
+  position: fixed;
+  width: 95%;
+}
+
+.accidentInfoList {
+  position: fixed;
+  border-style: solid;
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.74);
+
+  color: #ff0606;
+}
+.categoryBoxTunnels {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  margin-right: 4px;
+  margin-left: -20px;
+  justify-content: left;
+}
+#policeInfoOverlayer {
+  width: 100px;
+  color: #12b8ff;
+  font-size: medium;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+#politoetImg {
+  width: 100%;
+}
+
+/*Ol style */
+div.ol-control.ol-unselectable.ol-control button.ol-zoom-in,
+div.ol-control.ol-unselectable.ol-control button.ol-zoom-out {
+  background-color: rgba(0, 0, 0, 0.37);
+  color: #df19fb;
+  border-style: solid;
+  border-radius: 40%;
+  border-width: thin;
+  transition: transform 0.3s; /* Add a transition for smoother scaling */
+  transform: translate(-20%, -20%) scale(1.5);
+}
+div.ol-control.ol-unselectable.ol-control {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 5rem;
+  top: 90%;
+}
+div.ol-attribution.ol-unselectable.ol-control {
+  background-color: unset;
+}
+div.ol-zoom.ol-unselectable.ol-control {
+  background-color: unset;
+}
+div.ol-control.ol-attribution button {
+  background-color: rgba(0, 0, 0, 0.37);
+  border-style: solid;
+  border-color: #df19fb;
+  color: #df19fb;
+  border-radius: 5px;
+}
+/*Distance Ol*/
+div.ol-scale-line {
+  left: 50dvw;
+  background-color: rgba(0, 0, 0, 0.37);
+  scale: 1.5;
+}
+div.ol-scale-line-inner {
+  color: #df19fb;
+}
+.ol-layer {
+  filter: contrast(110%) brightness(100%) saturate(150%);
+  border-radius: 2%;
+}
