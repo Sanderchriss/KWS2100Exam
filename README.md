@@ -2,7 +2,6 @@
 
 ## Linker
 
-Github: https://github.com/kristiania-kws2100-2024/kws2100-exam-Sanderchriss <br>
 Nettside: https://kristiania-kws2100-2024.github.io/kws2100-exam-Sanderchriss/
 
 ## Om arbeidet
